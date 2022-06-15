@@ -1,3 +1,6 @@
+This project is the turotrial of React Router tutorial site 'https://reactrouter.com/docs/en/v6/getting-started/tutorial#introduction'.
+This project was created to learn navigation in React using React Router.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
